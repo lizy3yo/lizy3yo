@@ -17,8 +17,7 @@
 - 🌱 I’m currently exploring the latest in web technologies, robust architectures, and AI.
 - 👯 I’m looking to collaborate on exciting open-source projects or innovative products.
 - 🤔 I’m looking for help with exploring new stacks and scaling systems to the next level.
-- 💬 Ask me about **frontend development, backend architecture, and clean code**.
-- 📫 How to reach me: **[dejesuskharl32@gmail.com / https://www.upwork.com/freelancers/~0163c7f0ee0a962f41]** *(Update this!)*g
+- 📫 How to reach me: **[dejesuskharl32@gmail.com / https://www.upwork.com/freelancers/~0163c7f0ee0a962f41]**
 - ⚡ Fun fact: I love solving complex problems and turning coffee into code!
 
 ---
