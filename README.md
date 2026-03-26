@@ -35,17 +35,12 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lizy3yo&show_icons=true&theme=radical" alt="lizy3yo's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lizy3yo&theme=radical" alt="lizy3yo's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizy3yo&layout=compact&theme=radical" alt="lizy3yo's Top Languages" />
-</p>
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lizy3yo&show_icons=true&theme=radical" alt="Kharl's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lizy3yo&theme=radical" alt="Kharl's GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lizy3yo&layout=compact&theme=radical" alt="Kharl's Top Languages" />
+</div>
