@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi there, I'm Kharl 👋</h1>
 <h3 align="center">A passionate developer</h3>
-![alt text](image.png)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lizy3yo&label=Profile%20views&color=0e75b6&style=flat" alt="lizy3yo profile views" />
 </p>
@@ -25,12 +24,9 @@
 ## 🛠️ Tools & Technologies
 
 *Here are some of the tools, languages, and frameworks I use to bring ideas to life.* 
-
-*(You can easily customize these by adding or removing icons in the URL below! More icons can be found at [skillicons.dev](https://skillicons.dev))*
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,git,github,docker,aws,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,git,github,docker,aws,vscode,html,css,python,svelte,vue,figma,claude,chatgpt,gemini&perline=7" />
   </a>
 </p>
 
