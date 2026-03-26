@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Kharl 👋</h1>
-<h3 align="center">A passionate developer crafting digital experiences</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lizy3yo&label=Profile%20views&color=0e75b6&style=flat" alt="lizy3yo profile views" />
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on exciting open-source projects or innovative products.
 - 🤔 I’m looking for help with exploring new stacks and scaling systems to the next level.
 - 💬 Ask me about **frontend development, backend architecture, and clean code**.
-- 📫 How to reach me: **[Your Email / LinkedIn]** *(Update this!)*
+- 📫 How to reach me: **[Your Email / LinkedIn]** *(Update this!)*g
 - 😄 Pronouns: **[Your Pronouns]** *(Update this!)*
 - ⚡ Fun fact: I love solving complex problems and turning coffee into code!
 
